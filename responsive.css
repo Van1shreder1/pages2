@@ -1,0 +1,247 @@
+.rekmob{display:none;width:100%;margin-top:10px;}
+.soc2mob{display:none;}
+.mobile-menu{display:none;}
+.right{position:relative;}
+.body{margin:auto;}
+.recept_small .clip2{width:100%;height:auto;overflow:hidden;}
+.recept_small{min-height:170px;}
+.other_info div.img2{margin-right:5px;}
+#float-sidebar{left:initial!important;}
+
+.banners_block { width: 620px  }
+.header .banners { width: 200px; height: 100px   }
+.header .banners img { width: 100%;  padding-left: 5px    }
+
+
+@media only screen and (max-width:1241px){.details_image{width:23%;}
+.banners_block {width: 560px}
+.header .banners {width: 180px}
+.details_desc{float:left;width:100%;}
+body{padding:0 10px;}
+.left{width:17%;}
+.content{width:60%;}
+.right{width:21%;}
+.page{min-width:0;}
+.searchTd{width:370px;}
+.pohozie{width:23%;margin-bottom:10px;text-align:center;min-height:170px;}
+.foto-shagi{float:left;width:23%;margin-right:7px;}
+.foto-shagi img{width:100%}
+.foto-shagi .clip2{width:100%;height:auto;overflow:hidden;}
+.other_recepts{float:left;width:23%;margin-right:10px;}
+.news_one{float:right;width:31%;margin-right:10px;}
+img{max-width:100%;}
+.slide2{float:left;width:50%;}
+.statia{float:left;width:23%;margin-right:10px;}
+.recept_big{float:left;width:50%;margin-right:10px;}
+.recept_small_all{float:left;width:47%;}
+.recept_small{float:left;width:45%;margin-left:10px;min-height:170px;}
+.recept_small .clip2{width:100%;height:auto;overflow:hidden;}
+.other_recept{width:48%;min-height:330px;}
+.other_info a{display:block;float:left;width:32%;}
+.other_info h4{color:#A45375;overflow:hidden;}
+.other_info h4 a{display:block;float:none;width:100%;}
+}
+@media only screen and (max-width:1141px){.socdesc{display:none;}
+.socmob{display:block;}
+.left{width:19%;}
+.content{width:55%;}
+.right{width:23%;}
+}
+@media only screen and (max-width:1024px){.details_image{width:190px;}
+.banners_block {width: 430px}
+.header .banners {width: 140px; padding-top: 10px;}
+.logos { width: 310px; }
+.details_desc{float:left;width:100%;max-width:100%;}
+#float-sidebar{display:none;}
+.mobile-menu img{width:13px;}
+.pohozie .img3{background:#FFFFFF;border:1px solid #DEDBC8;padding:2px;display:block;position:relative;overflow:hidden;}
+.pohozie{min-height:200px;}
+.left{width:200px;}
+.print{display:none;}
+img{max-width:100%;height:auto;}
+.mobile-menu{display:block;background:#a45375;color:#fff!important;padding:10px;font-size:17px;width:250px;position:absolute;text-decoration:none!important;z-index:999999;}
+body{min-width:0;}
+.right{display:block;width:200px;}
+.right .block{width:200px;}
+.subscribe-form-item__control{width:110px}
+#sbox1{width:100%!important;}
+#sbox0{width:100%!important;}
+.right iframe{max-width:100%!important;}
+.right .widget{min-width:0!important;}
+.page{min-width:0;}
+.body{width:100%!important;}
+.body >.simpleTable{max-width:1220px;margin:auto;overflow:hidden;box-sizing:border-box;width:960px;margin:auto;}
+.footer_inner{width:750px;}
+.content{padding-right:0;width:540px;float:left;margin-right:10px;}
+.content2{padding-right:0;width:540px;float:left;margin-right:0;}
+.search_right{width:100%;float:none;}
+.search_right h5{width:250px;float:left;min-height:175px;text-align:center;}
+.search_right p{margin-top:5px;}
+.left2{width:200px;float:left;margin-right:10px;}
+.search_left{width:100%;}
+.img2{max-width:250px;}
+.img2{max-width:100%;display:block;margin:0;float:none;margin-bottom:10px;width:100%;}
+.logos a:nth-child(1){display:none}
+#.banners_block{width:361px;}
+#.header .banners{width:120px;padding-top:15px;}
+.header .banners img{width:100%;}
+.logos img{border:0;width:auto;height:auto;margin-top:7px;}
+.logos a:nth-child(1) img{width:70px;}
+.menu_top{float:left;width:250px;display:none;background:#f9d9e7;z-index:99999;margin-top:40px;padding:10px;position:relative;}
+.header2{height:220px;}
+.header{width:960px;margin:auto;height:90px;}
+.header2{height:70px;width:960px;margin:auto;}
+.newsone a{display:block;width:100%;margin:auto;overflow:hidden;}
+.newsone img{}
+.newsone{min-height:265px;}
+.other_recept{float:none;width:350px;margin:auto;}
+.recept_big{float:left;width:220px;margin-right:10px;}
+.recept_small_all{float:none;width:100%;}
+.recept_small{width:48%;margin-bottom:15px;}
+.recept_small .img2{float:none;}
+.clip2{width:117px;height:auto;overflow:hidden;}
+.recept_small .clip2{width:100%;}
+.pohozie{width:240px;margin-bottom:10px;text-align:center;min-height:220px;}
+.pohozie_block:nth-child(3){display:none;}
+h1{font-size:21px;}
+.avtor{float:none;}
+.news_one{width:153px;}
+.news_one a{overflow:hidden;display:block;}
+.news_one .alright a{overflow:initial;display:initial;}
+.jcarousel img{width:100%;}
+.jcarousel li{width:140px!important;}
+.jcarousel{width:405px!important;}
+.foto-shagi{width:115px;}
+.clip2{width:110px;}
+.other_recepts{width:235px;min-height:165px;}
+.statia{width:235px;min-height:190px;}
+.recept_big{float:none;width:100%;margin-right:10px;}
+.detail_img{float:none;margin-bottom:5px;}
+.news_one .img2,
+.statia .img2,
+.newsone .img2{float:left;}
+.recept_detail_info{width:264px;float:left;}
+.rec_img{margin:0 10px 5px 0;}
+}
+@media only screen and (max-width:981px){
+.right{display:none!important;}
+.rekmob{display:block}
+.body >.simpleTable{width:750px;}
+.content{margin-right:0px;}
+.header{width:750px;}
+.header2{width:750px;}
+}
+@media only screen and (max-width:768px){
+.soc2desc{display:none} 
+.soc2mob{display:block; width: 100%; align: right}
+.social{display:inline-block;}
+.avtor{float:none}
+.left{display:none;}
+.footer_inner{width:520px;margin:auto;}
+.detail_img_big .img2{width:100%}
+.doparam{float:left;padding-left:0px;margin-left:0px;width:100%;margin-top:0;}
+.ingrdiv{float:left;width:100%}
+.annonb{display:none}
+.logos{width:230px;margin:auto;float:none;}
+.header{width:550px;}
+.header2{width:550px;}
+.menu_top{float:left;width:200px;}
+.searchTd{width:300px;float:right;}
+.header2 .form .inp{width:75%;}
+.banners_block{display:none;}
+.content{float:none;margin:auto;}
+.body >.simpleTable{width:100%;}
+.mobile-menu{width:200px;}
+.foot_block{width:130px;}
+.content h2{padding-left:0;}
+.calendar_news{width:100%;display:none;}
+.collumn2{float:none;width:100%;margin-right:0;margin-bottom:0px;}
+.content2{width:540px;float:none;margin-right:0;margin:auto;}
+.left2{display:none; width: 200px}
+}
+@media only screen and (max-width:570px){.other_recepts{width:100%;margin-bottom:15px;min-height:auto;}
+.details_desc{float:left;width:100%;}
+.newsTbl .news_block .news_one{width:95%;}
+.statia{width:100%;min-height:auto;margin-bottom:15px;}
+.jcarousel{width:260px!important;}
+.news_one a{overflow:inherit;display:inline;}
+.calendar_news{width:100%;display:none;}
+.content{width:380px;}
+.content2{width:380px;}
+.search_right h5{width:175px;}
+.header{width:380px;height:80px;}
+.header2{width:380px;}
+.footer_inner{width:380px;}
+.searchTd{width:300px;}
+.menu_top{float:none;width:250px;margin:auto;top:45px;position:absolute;right:initial;left:0;}
+.header2 .links li{word-wrap:break-word;}
+.header2{height:70px;margin-top:-30px;}
+.img2 .img2{max-width:100%;}
+.newsone{width:100%;float:none;padding-right:10px;min-height:0;margin-bottom:25px;}
+div.alright{width:50%;}
+.newsTbl .alright{display:none;}
+.newsone a{display:inline;overflow:inherit;}
+.newsone{overflow:hidden;}
+.recept_collumn{float:none;width:100%;}
+.recept_big{float:none;width:100%;margin-right:0;text-align:center;margin-bottom:20px;}
+.recept_small_all{float:none;width:100%;}
+.recept_small{width:44%;min-height:165px;}
+.detail_img .img2{max-width:100%;}
+#.social{float:none;margin:10px auto;width:183px;text-align:center;}
+.pohozie{width:170px;font-size:10px;min-height:140px;}
+.mobile-menu{display:block;background:#a45375;color:#fff!important;padding:10px;font-size:17px;width:250px;position:absolute;text-decoration:none!important;z-index:999999;left:0;right:0;margin:auto;top:200px;}
+.foot_block{width:190px;margin-bottom:20px;}
+.metrics{float:none;width:100%;}
+.right30{float:none;width:100%;}
+.leftbig{float:none;width:100%;}
+.slide2{float:left;width:50%;}
+.slide2 .clip2{width:150px;}
+.news_one .alright{display:none;}
+.foto-shagi{width:170px;min-height:170px;}
+.foto-shagi .clip2{width:100%;}
+.foto-shagi .clip2 img{border:0;width:100%;}
+.news_one{width:100%;float:none;margin:10px auto;}
+.recept_detail_info{width:185px;}
+.recept_detail_info_right{width:150px;}
+.mobile-menu{display:block;background:#a45375;color:#fff!important;padding:15px 15px;font-size:17px;width:45px;position:relative;text-decoration:none!important;z-index:999999;left:0;right:initial;float:left;margin:auto;top:0px;overflow:hidden;height:45px;line-height:40px;}
+.mobile-menu span{display:none;}
+.header2 .links{position:relative;}
+.header2 .simpleTable{overflow:visible;}
+}
+@media only screen and (max-width:400px){.content{width:300px;}
+.content2{width:300px;}
+.header{width:300px;}
+.header2{width:300px;height:55px;}
+.footer_inner{width:300px;}
+.img2{max-width:100%;}
+.statia{width:100%;margin-bottom:10px;}
+.other_recept{float:none;width:275px;margin:auto;margin-bottom:20px;}
+.imghint{width:85px;}
+.rec_img{float:none;}
+.pohozie{width:200px;text-align:center;margin:10px auto;float:none;min-height:190px;}
+.pohozie_block:nth-child(3){display:none;}
+.collumn2{float:none;width:100%;}
+.leftbig{float:none;width:100%;}
+.right30{float:none;width:100%;}
+div.alright{width:100%;}
+.foot_block{width:150px;margin-bottom:20px;}
+.socis table,
+.socis table tbody,
+.socis table tr,
+.socis table td{display:block;}
+.slide2{float:left;width:50%;}
+.slide2 .clip2{width:100%;}
+.slide2 .img2{max-width:130px;}
+.news_block .news_one{width:125px;}
+.jcarousel{width:140px!important;margin:auto;}
+.foto-shagi{width:200px;float:none;margin:auto;margin-bottom:10px;}
+.foto-shagi .clip2{width:200px;}
+.recept_detail_info{width:125px;}
+.recept_detail_info_right{width:140px;}
+.searchTd{width:250px;}
+.header2 .form .inp{width:70%;}
+.search_right h5{width:180px;margin:auto;float:none;}
+.content2 a{word-break:break-word;}
+.small{display:none;}
+.header2 .form{padding:13px 10px 13px;}
+}
